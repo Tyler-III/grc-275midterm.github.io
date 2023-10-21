@@ -1,0 +1,30 @@
+body {
+    background-color: #312900;
+    padding-top: 25px;
+}
+
+.custom-font-size h1 {
+    font-size: 36px;
+}
+
+.container-fluid {
+    color: #65715d;
+}
+
+h1 {
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+p {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Gabarito', sans-serif;
+    text-align: center;
+}
+
+.p-2 {
+    width: 600px;
+}
+
+</style>
